@@ -1,1 +1,3 @@
 In this chapter we are going to see about different programming languages (Ex: Python, Java)
+
+Here in chapter-2, we are going to talk about cricket as whole (like origin, recent series, etc).
